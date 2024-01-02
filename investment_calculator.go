@@ -17,7 +17,7 @@ func main() {
 	var investmentYears float64
 	fmt.Print("Type ur investment amount: ")
 	fmt.Scan(&investmentAmount)
-	fmt.Print(("Type anual rate: "))
+	fmt.Print(("Type anual  rate: "))
 	fmt.Scan(&anualReturnRate)
 	fmt.Print(("Type investment years duration: "))
 	fmt.Scan(&investmentYears)
